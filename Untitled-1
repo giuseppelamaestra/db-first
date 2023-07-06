@@ -1,0 +1,15 @@
+
+Table's name: cars 
+
+
+id             integer                MEDIUMINT UNSIGNED 
+make           string                 VARCHAR(15)
+model          string                 VARCHAR(30)
+engine type    string                 VARCHAR(20)
+year           data                   YEAR
+km             float                  FLOAT(3)                 
+price          float                  FLOAT(7)
+
+
+
+
